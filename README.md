@@ -1,5 +1,6 @@
 # hello-world
-this is a basic project
+
+- this is a basic project
 
 this is a hello-world function
 ```
